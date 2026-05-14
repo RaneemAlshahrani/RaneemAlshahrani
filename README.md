@@ -5,6 +5,7 @@ I'm **Raneem Alshahrani**, a Software Engineering student at **King Fahd Univers
 I enjoy building scalable and user-focused systems, from designing databases and RESTful APIs to creating responsive front-end experiences. I’m especially interested in combining **software engineering principles** with **modern web technologies** to solve real-world problems.  
 
 My experience includes developing full-stack applications, working with databases, implementing AI models, and creating structured software requirements and system designs. I’m continuously learning new technologies and improving my problem-solving and development skills through hands-on projects and academic work. 🚀  
+
 ---
 
 ## Socials:
@@ -55,29 +56,6 @@ My experience includes developing full-stack applications, working with database
 
 ---
 
-# Featured Projects:
-
-### 🛒 Bubble – Full-Stack E-Commerce Platform
-- Built a full-stack web application using **React, Node.js, Express, and MongoDB**
-- Implemented JWT authentication and admin dashboard
-- Deployed using Vercel and Cloudinary
-
-### 🐎 Horse Racing Management System
-- Developed using **JavaFX + MySQL**
-- Implemented stored procedures, triggers, and validation logic
-- Focused on data integrity and business rules
-
-### 🤖 Data Analysis & AI Project
-- Built and compared **KNN, SVM, and Deep Neural Network** models
-- Applied preprocessing and feature engineering techniques
-- Achieved **93% average test accuracy**
-
-### 📋 Club Zone – Software Requirements Specification
-- Created a structured SRS document for a student club platform
-- Modeled workflows using software engineering methodologies
-
----
-
 # GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=RaneemAlshahrani&theme=radical&hide_border=false&include_all_commits=true&count_private=true)
 
@@ -90,12 +68,3 @@ My experience includes developing full-stack applications, working with database
 # GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=RaneemAlshahrani&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
----
-
-### Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
----
-
-### Profile Views
-[![](https://visitcount.itsvg.in/api?id=RaneemAlshahrani&icon=5&color=12)](https://visitcount.itsvg.in)
